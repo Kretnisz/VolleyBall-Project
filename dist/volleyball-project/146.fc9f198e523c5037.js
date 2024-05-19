@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkvolleyball_project=self.webpackChunkvolleyball_project||[]).push([[146],{4146:(n,o,l)=>{l.r(o),l.d(o,{StatisticsModule:()=>c});var a=l(4755),s=l(2223);let c=(()=>{class t{}return t.\u0275fac=function(e){return new(e||t)},t.\u0275mod=s.oAB({type:t}),t.\u0275inj=s.cJS({imports:[a.ez]}),t})()}}]);

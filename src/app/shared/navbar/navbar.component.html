@@ -1,0 +1,15 @@
+<mat-toolbar>
+   <span class="title" (click)="navigateTo('home')">Volleyball Project</span>
+   <span class="example-spacer"></span>
+   <div class="navigation-container">
+    <button mat-button class="example-icon favorite-icon" (click)="navigateTo('overview')">
+        <span>Overview</span>
+      </button>
+      <button mat-button class="example-icon favorite-icon" (click)="navigateTo('results')">
+       <span>Results</span>
+     </button>
+     <button mat-button class="example-icon favorite-icon" (click)="navigateTo('statistics')">
+       <span>Statistics</span>
+     </button>
+   </div>
+ </mat-toolbar>
